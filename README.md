@@ -19,7 +19,9 @@ Responsive Design: Works seamlessly across devices.
 Technologies Used:
 -----------------------------------------------------------
 HTML: Structure of the application.
+
 CSS: Styling and layout.
+
 JavaScript: Logic for calculations and dynamic updates.
 
 How to Use:
@@ -30,10 +32,10 @@ git clone https://github.com/Bejjenki-Rakesh2003/simple-interest-calculator.git
 Open the index.html file in your browser.
 
 Enter the required values:
-Principal Amount
-Rate of Interest (%)
-Start Date
-End Date
+Principal Amount:
+Rate of Interest (%):
+Start Date:
+End Date:
 
 Click on "Calculate Interest."
 View the results displayed below.
